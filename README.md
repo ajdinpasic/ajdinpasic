@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ajdin</h1>
 <h3 align="center">A motivated software engineer from Sarajevo</h3>
 
+- 🔭 I’m currently working on **E-commerce webpage**
+
+- 🌱 I’m currently learning **ASP.NET CORE & Angular**
+
 - 📫 How to reach me **ajdin.pasic@stu.ibu.edu.ba**
+
+- ⚡ Fun fact **I think I suck at UI/UX**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
