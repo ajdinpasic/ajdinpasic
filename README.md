@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajdin</h1>
 <h3 align="center">A motivated software engineer from Sarajevo</h3>
 
-- 🔭 I’m currently working on **E-commerce webpage**
+- 🔭 I’m currently working on **Pathfinding visualizer and Business vendor system**
 
 - 🌱 I’m currently learning **ASP.NET CORE & Angular**
 
